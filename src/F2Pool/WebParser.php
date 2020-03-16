@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Connectors\F2Pool;
+namespace MiningMeter\Connectors\F2Pool;
 
 use App\Connectors\Connector;
 use Carbon\Carbon;
