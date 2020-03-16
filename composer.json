@@ -1,0 +1,20 @@
+{
+  "name": "miningmeter/pool-connectors",
+  "description": "Mining Pool Connectors",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Vladimir Yazykov",
+      "email": "neizerth@gmail.com"
+    }
+  ],
+  "require": {
+    "nesbot/carbon": "^2.31",
+    "illuminate/support": "^7.1",
+    "guzzlehttp/guzzle": "~6.0",
+    "ext-json": "*",
+    "ramsey/uuid": "^3.9",
+    "ext-curl": "*"
+  }
+}
